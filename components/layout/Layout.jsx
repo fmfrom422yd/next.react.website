@@ -7,5 +7,5 @@ export default function Home () {
     <Layout>
         <Hero />
     </Layout>
-    )}
-    
+    )
+}
