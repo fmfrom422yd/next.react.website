@@ -1,11 +1,11 @@
-import Layout from 'components/Layout'
-import Hero from 'components/hero'
+import Header from '../Header/Header'
+import Footer from '../Footer/Footer'
 
 
 export default function Home () {
     return (
-    <Layout>
-        <Hero />
-    </Layout>
+        <div>
+
+        </div>
     )
 }

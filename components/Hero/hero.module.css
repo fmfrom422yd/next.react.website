@@ -1,20 +1,7 @@
 .text{
     padding: 20px;
     border: solid 2px currentColor;
-    color: blue;
-}
-
-.textPastel{
-    composes : text;
-    color:lightpink
-}
-
-.color{
-    color:lightpink
-}
-.textPastelDotted{
-    composes:text color;
-    border-style: dotted;
+    color: darkblue;
 }
 
 .title{
@@ -25,10 +12,3 @@
     font-size:20px;
 }
 
-.text h1{
-    font-size:88px
-}
-
-.text p{
-    font-size:20px;
-}
