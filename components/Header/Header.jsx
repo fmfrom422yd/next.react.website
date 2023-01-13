@@ -3,6 +3,9 @@ import Nav from '../nav/nav'
 
 export default function Header() {
     return (
-    <header><Logo /><Nav /></header>
+    <header>
+        <Logo boxOn />
+        <Nav />
+    </header>
     )
 }
