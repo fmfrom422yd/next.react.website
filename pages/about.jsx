@@ -1,8 +1,8 @@
-import Hero from 'components/hero'
+import Hero from '@/components/Hero/Hero'
 
 export default function About() {
-    return( 
-    <Hero 
+    return (
+    <Hero
         title="About"
         subtitle="About development activities"
     />
