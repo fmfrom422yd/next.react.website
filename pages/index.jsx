@@ -1,6 +1,6 @@
 
 import Hero from '@/components/Hero/Hero'
-import Layout from '@/components/_Layout/Layout'
+import Layout from '@/components/Layout/Layout'
 
 export default function Home () {
     return (
